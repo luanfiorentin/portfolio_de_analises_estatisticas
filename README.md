@@ -1,1 +1,1 @@
-# portfolio_de_analises_estatisticas
+Portfólio de análise estatística de dados em diferentes contextos usando diferentes ferramentas.
